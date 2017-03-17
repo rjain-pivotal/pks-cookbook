@@ -2,7 +2,7 @@
 
 This is the cookbook for PA's to get started on using / demo'ing and pushing workloads on Kubo
 
-## Usecases addressed in this cookbook. 
+## Use cases addressed in this cookbook. 
 ### These are our standard use cases we come across in cf world
 
 1. Create kubo On-demand Cluster
